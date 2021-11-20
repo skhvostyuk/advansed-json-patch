@@ -1,14 +1,22 @@
 [
-    {
-        "patch": null,
-        "victim": { "hello": "world" }
-    },
-    {
-        "patch": "hello",
-        "victim": {}
-    },
-    {
-        "patch": [ 1, null, { "x": null } ],
-        "victim": null
+  {
+    "patch": null,
+    "victim": {
+      "hello": "world"
     }
+  },
+  {
+    "patch": "hello",
+    "victim": {}
+  },
+  {
+    "patch": [
+      1,
+      null,
+      {
+        "x": null
+      }
+    ],
+    "victim": null
+  }
 ]

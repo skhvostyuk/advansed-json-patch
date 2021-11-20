@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2014, Francis Galiegue (fgaliegue@gmail.com)
+ * Copyright (c) 2021, Sergey Khvostyuk (hvostuksergey@gmail.com)
  *
  * This software is dual-licensed under:
  *
@@ -17,4 +17,4 @@
  * - ASL 2.0: http://www.apache.org/licenses/LICENSE-2.0.txt
  */
 
-rootProject.name = "json-patch";
+rootProject.name = "advansed-json-patch";
